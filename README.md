@@ -1,5 +1,5 @@
 - Legacy Skills
-  - Javascript(Typescript) / Java / Python / Scala
+  - Java / Kotlin / Javascript(Typescript) / Python / Scala
   - Node.js / React(Next.js) / Spring
   - MySQL / MongoDB
   - Batch Process(Index) for Search Engine
